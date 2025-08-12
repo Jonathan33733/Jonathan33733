@@ -1,25 +1,11 @@
 ## 🔐 Projects
 
-| Project Title | Description | Tools Used |
-|---------------|-------------|------------|
-| **<Project Name>** | <Short description of what it does or what you did> | <Tools/Tech> |
-| **<Project Name>** | <Short description> | <Tools/Tech> |
-| **<Project Name>** | <Short description> | <Tools/Tech> |
+| Project Title | Link |
+|---------------|-------------|
+| **<Project Name>** | <Short description of what it does or what you did> |
+| **<Project Name>** | <Short description> |
+| **<Project Name>** | <Short description> |
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| null          | <a href="https://google.com">null</a>|
-| null | <a href="https://google.com">null</a>|
-| null        | null|
-| null      | null|
-| null                  | null|
-| null | null|
-
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### 🛡️ Security Platforms & SIEM
 <div>
