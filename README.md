@@ -1,10 +1,8 @@
 ## 🔐 Projects
 
-| Project |
+| Projects |
 |---------------|
 | <a href="https://github.com/Jonathan33733/AI-Crafted-Custom-Resources-for-Threat-Intelligence-Hunting">AI Automation for Threat Intelligence and Hunting</a> |
-| **<Project Name>** |
-| **<Project Name>** |
 
 
 ### 🛡️ Security Platforms & SIEM
