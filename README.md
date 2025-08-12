@@ -1,10 +1,10 @@
 ## 🔐 Projects
 
-| Project Title | Link |
-|---------------|-------------|
-| **<Project Name>** | <Short description of what it does or what you did> |
-| **<Project Name>** | <Short description> |
-| **<Project Name>** | <Short description> |
+| Project |
+|---------------|
+| <a href="https://github.com/Jonathan33733/AI-Crafted-Custom-Resources-for-Threat-Intelligence-Hunting">AI Automation for Threat Intelligence and Hunting</a> |
+| **<Project Name>** |
+| **<Project Name>** |
 
 
 ### 🛡️ Security Platforms & SIEM
